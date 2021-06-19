@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 [![rorikata's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorikata&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- &hide=stars,commits,prs,issues,contribs -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rorikata&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
